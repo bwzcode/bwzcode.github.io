@@ -14,7 +14,7 @@ header {
 h2 {
     font-family: 'DM Sans', sans-serif;
     text-align: center;
-    color: black;
+    color: white;
 }
 /*Navigation Bar*/
 .topnav {
@@ -61,7 +61,7 @@ h2 {
 body {
     margin: 0;
     padding: 0;
-    color: black;
+    color: white;
     font-family: 'DM Sans';
     background-color: #555555;
 }
